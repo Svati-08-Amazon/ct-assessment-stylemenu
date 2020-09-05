@@ -9,6 +9,7 @@ body {
   font-family: "lato";
   font-size: 18px;
   background: url(../images/map-bg.jpg);
+  background-size: cover;
   /* background-color: blue; */
 }
 
@@ -67,6 +68,7 @@ h2 {
 h2 {
   font-family: "starters";
   color: #6d4c41;
+  font-variant-caps: small-caps;
 }
 dt {
   font-size: 20px;
